@@ -1,0 +1,8 @@
+[project]
+name = "notebook"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.37.0",
+]
