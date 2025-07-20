@@ -8,12 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
-    <list id="7ef899f6-efe8-4407-bb8a-3ea6bb10cc03" name="Changes by i" comment="">
-      <change beforePath="$PROJECT_DIR$/NoteBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/NoteBook.py" afterDir="false" />
-    </list>
+    <list id="7ef899f6-efe8-4407-bb8a-3ea6bb10cc03" name="Changes by i" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,6 +107,8 @@
       <workItem from="1752742345401" duration="2307000" />
       <workItem from="1752854998819" duration="2871000" />
       <workItem from="1752857902354" duration="6044000" />
+      <workItem from="1752931932911" duration="4820000" />
+      <workItem from="1752942840490" duration="5337000" />
     </task>
     <servers />
   </component>
@@ -118,6 +116,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NoteBook$NoteBook.coverage" NAME="NoteBook Coverage Results" MODIFIED="1752734849828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NoteBook$NoteBook.coverage" NAME="NoteBook Coverage Results" MODIFIED="1752955304146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
